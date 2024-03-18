@@ -1,9 +1,2 @@
-# A {{cookiecutter.project_name}} Flet app
-
-An example of a minimal Flet app.
-
-To run the app:
-
-```
-flet run [app_directory]
-```
+## Qrex currency exchange app experiment with python (django and flet)
+the project is was for testing the scalability of [python-flet](https://flet.dev/) which is a module for building Flutter apps in Python
